@@ -130,5 +130,8 @@
       }
     }
   },
-  "defaultProject": "eleven-tailwind-hmr"
+  "defaultProject": "eleven-tailwind-hmr",
+  "cli": {
+    "analytics": false
+  }
 }
